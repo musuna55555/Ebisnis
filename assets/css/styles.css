@@ -133,9 +133,7 @@ nav.navbar.navbar-default {
   position: absolute;
 }
 
-a:link {
-  text-decoration: none;
-}
+
 a:hover {
   font-weight: bold;
 }
